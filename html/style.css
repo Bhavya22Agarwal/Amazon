@@ -1,0 +1,75 @@
+
+body{
+    background-color: black;
+}
+
+.first img{
+    width : 125px;
+    height : 50px;
+    float:left;
+}
+.map_flex img{
+    float: left;
+    width : 50px;
+    height : 50px;
+}
+.map_flex{
+    background-color: black;
+    color :white;
+    height : 50px;
+    float :left;
+}
+.bold{
+    font-size: larger;
+}
+.second{
+    border : 10px rgb(180, 180, 185) solid;
+    border-top-left-radius: 2pt;
+    border-bottom-left-radius: 2pt;
+    float : left;
+    background-color:rgb(180, 186, 193);
+    margin-top : 6pt;
+    margin-left: 20pt;
+    text-align: center;
+}
+.second img{
+    width : 12px;
+    height : 15px;
+}
+.Input{
+    margin-top: 6pt;
+    height: 34px;
+    width: 500pt;
+    float:left;
+}
+.search_icon img{
+    border : 10px gold solid;
+    background-color:gold;
+    border-top-right-radius: 2pt;
+    border-bottom-right-radius: 2pt;
+    height : 20px;
+    width : 20px;
+}
+.search_icon{
+    float: left;
+    margin-top: 6pt;
+}
+.flag img{
+    border : 10px black solid;
+    border-right: 8px;
+    border-left: 8px;
+    width : 30px;
+    height : 20px;
+    margin-top: 6pt;
+    margin-left: 15pt;
+    float : left;
+}
+.arrow img{
+    border : 10px black solid;
+    border-right: 8px;
+    border-left: 8px;
+    width : 20px;
+    height : 20px;
+    margin-top: 10pt;
+    float: left;
+}
