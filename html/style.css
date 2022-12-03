@@ -19,56 +19,64 @@ body{
     height : 50px;
     float :left;
 }
-.bold{
-    font-size: larger;
-}
 .second{
-    border : 10px rgb(180, 180, 185) solid;
-    border-top-left-radius: 2pt;
-    border-bottom-left-radius: 2pt;
+    border : 10px rgb(222, 222, 222) solid;
+    border-top-left-radius: 1pt;
+    border-bottom-left-radius: 1pt;
     float : left;
-    background-color:rgb(180, 186, 193);
+    background-color:rgb(222, 222, 222);
     margin-top : 6pt;
     margin-left: 20pt;
+    color: grey;
     text-align: center;
 }
-.second img{
-    width : 12px;
-    height : 15px;
+.allarrow img{
+    background-color:rgb(222, 222, 222);
+    margin-top : 6pt;
+    width : 2%;
+    height : 38px;
+    margin-left: 0pt;
+    float: left;
 }
 .Input{
     margin-top: 6pt;
-    height: 34px;
-    width: 500pt;
+    height: 32px;
+    width: 38%;
     float:left;
 }
 .search_icon img{
-    border : 10px gold solid;
-    background-color:gold;
+    border : 9px rgb(255, 193, 92) solid;
+    margin-right: 12px;
+    background-color:rgb(255, 193, 92);
     border-top-right-radius: 2pt;
     border-bottom-right-radius: 2pt;
     height : 20px;
-    width : 20px;
+    width : 50%;
 }
 .search_icon{
     float: left;
     margin-top: 6pt;
 }
 .flag img{
-    border : 10px black solid;
+    border : 12px black solid;
     border-right: 8px;
     border-left: 8px;
-    width : 30px;
+    width : 35%;
     height : 20px;
     margin-top: 6pt;
     margin-left: 15pt;
+    
+}
+.flag{
+    color: white;
+    margin-top: 6px;
     float : left;
 }
 .arrow img{
     border : 10px black solid;
     border-right: 8px;
     border-left: 8px;
-    width : 20px;
+    width : 2%;
     height : 20px;
     margin-top: 10pt;
     float: left;
